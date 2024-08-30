@@ -6,11 +6,11 @@ BASEC adalah sekumpulan alat yang digunakan untuk network scanning. Alat yang di
 
 
 
-[![GitHub release](https://img.shields.io/github/release/LazyCats07/Raf-T.svg)](https://github.com/LazyCats07/Raf-T/releases)
-[![GitHub issues](https://img.shields.io/github/issues/LazyCats07/Raf-T.svg)](https://github.com/LazyCats07/Raf-T/issues)
-[![Github Stars](https://img.shields.io/github/stars/LazyCats07/Raf-T.svg?style=social&label=Stars)](https://github.com/LazyCats07/Raf-T)
-[![GitHub Followers](https://img.shields.io/github/followers/LazyCats07.svg?style=social&label=Follow)](https://github.com/LazyCats07)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/mrafiediananta/)
+[![GitHub release](https://img.shields.io/github/release/LazyCats07/Raf-T.svg)](https://github.com/NailYusra/BASEC/releases)
+[![GitHub issues](https://img.shields.io/github/issues/LazyCats07/Raf-T.svg)](https://github.com/NailYusra/BASEC/issues)
+[![Github Stars](https://img.shields.io/github/stars/LazyCats07/Raf-T.svg?style=social&label=Stars)](https://github.com/NailYusra/BASEC/)
+[![GitHub Followers](https://img.shields.io/github/followers/LazyCats07.svg?style=social&label=Follow)](https://github.com/NailYusra/)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nail-zaidan/)
 
 
 ## Instalasi
@@ -70,15 +70,17 @@ Click the Demo Above!
 
 ## Media Penggunaan
 
-**Client:** Linux
+**Client:** Linux (Kali)
 
-**Server:** Linux
+**Server:** Linux (Kali)
 
 
 ## 🔗 Referensi
-[![portfolio](https://img.shields.io/badge/portofolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LazyCats07/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrafiediananta/)
-
+https://www.geeksforgeeks.org/port-scanner-using-python/
+https://stackoverflow.com/questions/71399009/what-is-the-difference-between-sr-and-srp-scapy
+https://gist.github.com/jcjones/0f3f11a785a833e0a216
+https://stackoverflow.com/questions/59589190/python-arp-scanner
+https://www.geeksforgeeks.org/traceroute-implementation-on-python/
 
 
 ### Pemilik
