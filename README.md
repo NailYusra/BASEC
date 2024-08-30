@@ -2,10 +2,6 @@
 
 BASEC adalah sekumpulan alat yang digunakan untuk network scanning. Alat yang dimaksud ialah: ARP scanning, Port Scanning, dan traceroute. Alat ini dijalankan menggunakan Python versi 3 dan menggunakan OS berbasis Linux.
 
-![Logo](img/Title.png)
-
-
-
 [![GitHub release](https://img.shields.io/github/release/NailYusra/BASEC.svg)](https://github.com/NailYusra/BASEC/releases)
 [![GitHub issues](https://img.shields.io/github/issues/NailYusra/BASEC.svg)](https://github.com/NailYusra/BASEC/issues)
 [![Github Stars](https://img.shields.io/github/stars/NailYusra/BASEC.svg?style=social&label=Stars)](https://github.com/NailYusra/BASEC/)
