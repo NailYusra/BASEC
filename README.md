@@ -46,7 +46,7 @@ Pergi ke direktori file Batch untuk running kode
   cd Batch/
 ```
 
-Jalankan kode Gabungan.py
+Jalankan skrip Gabungan.py
 ```bash
   python3 Gabungan.py
 ```
