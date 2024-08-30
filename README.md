@@ -74,7 +74,7 @@ Video Berisi Demo Penggunaan Alat
 
 **Client:** Linux (Kali)
 
-**Server:** Linux (Kali)
+**Server:** Linux (Kali), Ubuntu
 
 
 ## 🔗 Referensi
