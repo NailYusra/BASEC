@@ -1,7 +1,6 @@
 # BASEC - Basic Network Scanning Tools
 
-BASEC adalah sekumpulan alat yang digunakan untuk network scanning.
-"\n"Alat yang dimaksud ialah:
+BASEC adalah sekumpulan alat yang digunakan untuk network scanning. Alat yang dimaksud ialah:
   - ARP scanning,
   - Port Scanning,
   - Trace Route.
