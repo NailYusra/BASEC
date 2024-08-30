@@ -78,11 +78,11 @@ Video Berisi Demo Penggunaan Alat
 
 
 ## 🔗 Referensi
-https://www.geeksforgeeks.org/port-scanner-using-python/
-https://stackoverflow.com/questions/71399009/what-is-the-difference-between-sr-and-srp-scapy
-https://gist.github.com/jcjones/0f3f11a785a833e0a216
-https://stackoverflow.com/questions/59589190/python-arp-scanner
-https://www.geeksforgeeks.org/traceroute-implementation-on-python/
+- (https://www.geeksforgeeks.org/port-scanner-using-python/)
+- (https://stackoverflow.com/questions/71399009/what-is-the-difference-between-sr-and-srp-scapy)
+- (https://gist.github.com/jcjones/0f3f11a785a833e0a216)
+- (https://stackoverflow.com/questions/59589190/python-arp-scanner)
+- (https://www.geeksforgeeks.org/traceroute-implementation-on-python/)
 
 
 ### Pemilik
