@@ -57,9 +57,9 @@ Jalankan kode Gabungan.py
 
 [![Alt Text](Image/thumbnail-yt.png)](https://youtu.be/8l_9e9OaYj8?si=UPKKpIJe9dYZ123X)
 
-
+Video Berisi Demo Penggunaan Alat
 ```bash
-Click the Demo Above!
+! Klik Video Diatas ! 
 ```
 
 
