@@ -55,7 +55,7 @@ Jalankan kode Gabungan.py
 
 ## Demo Penggunaan
 
-[![Alt Text](img/Youtube.png)](https://youtu.be/EPOFYOy4xAw)
+[![Alt Text](Image/thumbnail-yt.png)](https://youtu.be/8l_9e9OaYj8?si=UPKKpIJe9dYZ123X)
 
 
 ```bash
