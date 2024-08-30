@@ -6,10 +6,10 @@ BASEC adalah sekumpulan alat yang digunakan untuk network scanning. Alat yang di
 
 
 
-[![GitHub release](https://img.shields.io/github/release/LazyCats07/Raf-T.svg)](https://github.com/NailYusra/BASEC/releases)
-[![GitHub issues](https://img.shields.io/github/issues/LazyCats07/Raf-T.svg)](https://github.com/NailYusra/BASEC/issues)
-[![Github Stars](https://img.shields.io/github/stars/LazyCats07/Raf-T.svg?style=social&label=Stars)](https://github.com/NailYusra/BASEC/)
-[![GitHub Followers](https://img.shields.io/github/followers/LazyCats07.svg?style=social&label=Follow)](https://github.com/NailYusra/)
+[![GitHub release](https://img.shields.io/github/release/NailYusra/BASEC.svg)](https://github.com/NailYusra/BASEC/releases)
+[![GitHub issues](https://img.shields.io/github/issues/NailYusra/BASEC.svg)](https://github.com/NailYusra/BASEC/issues)
+[![Github Stars](https://img.shields.io/github/stars/NailYusra/BASEC.svg?style=social&label=Stars)](https://github.com/NailYusra/BASEC/)
+[![GitHub Followers](https://img.shields.io/github/followers/NailYusra.svg?style=social&label=Follow)](https://github.com/NailYusra/)
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nail-zaidan/)
 
 
