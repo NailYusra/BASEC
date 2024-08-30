@@ -17,13 +17,13 @@ Instal versi 3 python
   sudo apt install python3
 ```
 
-Instal Python Packet Manager
+Instal python packet manager
 
 ```bash
   sudo apt install python3-pip
 ```
 
-Instal Dependency Scapy
+Instal dependency scapy
 
 ```bash
   pip install scapy
