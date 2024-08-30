@@ -21,13 +21,13 @@ Instal versi 3 python
   sudo apt install python3
 ```
 
-Install Python Packet Manager
+Instal Python Packet Manager
 
 ```bash
   sudo apt install python3-pip
 ```
 
-Install Dependency Scapy
+Instal Dependency Scapy
 
 ```bash
   pip install scapy
@@ -57,7 +57,7 @@ Jalankan kode Gabungan.py
 
 
 
-## Demo Usage
+## Demo Penggunaan
 
 [![Alt Text](img/Youtube.png)](https://youtu.be/EPOFYOy4xAw)
 
@@ -68,19 +68,19 @@ Click the Demo Above!
 
 
 
-## Tech Stack
+## Media Penggunaan
 
 **Client:** Linux
 
 **Server:** Linux
 
 
-## 🔗 Reference
+## 🔗 Referensi
 [![portfolio](https://img.shields.io/badge/portofolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LazyCats07/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrafiediananta/)
 
 
 
-### Authors
+### Pemilik
 
 - [@NailYusra](https://github.com/NailYusra/BASEC)
